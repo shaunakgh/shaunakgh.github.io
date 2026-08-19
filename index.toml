@@ -1,0 +1,161 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/antique-trading-ship.pw.toml"
+hash = "cb4a414f163dc780fe0b8dc3b3938739749a3d83bccd6fc6d3dc8b0b3f0c150b"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "8497840a336f7d98a140959ab6c5102ab377c19e25b7f467ef5658aea1d680db"
+metafile = true
+
+[[files]]
+file = "mods/boatload.pw.toml"
+hash = "192b4e3d282f8fb2b64de240e470a1f53c8b0b7a5b2a2a2f3d04c9fcfabb6334"
+metafile = true
+
+[[files]]
+file = "mods/campsite-structures.pw.toml"
+hash = "6c62e4a74289be9ff86d883b7bd8675412d96a2d579ee30d869143a6d09bf0fb"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight-forge.pw.toml"
+hash = "c280846e9a6599055814a024ad5b5212344a8c02a955d0e779cca7aa2244fd4f"
+metafile = true
+
+[[files]]
+file = "mods/cl0uds-paxels.pw.toml"
+hash = "f15db0b2f03d0a20ef00450777fbedc2d9af04f62f7c03165aeaad47b42096e3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "fee194ac0436ddcb1199929daeb0eab31cf0802e60469eeac3218a6e26a5a065"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "8f594551016c01eca3ef1700837f98a0b73b69f6244b7f27c87a6a88c28310c8"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/environmental.pw.toml"
+hash = "9825060ebdf517eaa5e9d341fcb13816698aa0a39c21953439681e61c36943ff"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "d753e79a5ac72386b753289212d61a1808dcbf64787b860f7ac93de34a063719"
+metafile = true
+
+[[files]]
+file = "mods/gensokyo-delight-youkais-feasts.pw.toml"
+hash = "1d051cdb58aab9139131f8eb5c83d5c6ab92a9d657fb09a0bdbb1365fbe94ff6"
+metafile = true
+
+[[files]]
+file = "mods/homesteads.pw.toml"
+hash = "6931d4b6f34ff58cab4fe16267a1d5a038a5c2a287465388520edc9736d0afab"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-camping.pw.toml"
+hash = "1b4143ff888e913d6861b3de4059958a47549e18c207f83caa02fd209872f52f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+hash = "ae37ced1e43fa3d826144b0f86f20b84d58051799d774dce5613f818dd7c67bc"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight-plus.pw.toml"
+hash = "aad8873c7f7f78075340c2e3dac5b2496759cffb2798a65c0649c57f99aa958d"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/ore-variants.pw.toml"
+hash = "ac6d566c860a3831d4c794ad4e4b645010e9c47cd510c7d5b5d1fb186b051d56"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "f4770c505339adcf699f86db5aa9828835b95352fb3ee765cd5aa727677af575"
+metafile = true
+
+[[files]]
+file = "mods/scuba-gear.pw.toml"
+hash = "f827803e76425144bbd92b385ed5e70599b6c1765521b71bc37c161ad64248c2"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "a291a8d50f30843e49d92db1cde7734327e809b52d24183eecff8c165eed82a6"
+metafile = true
+
+[[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "a84128f1f8352a1e8239cfdc6e82cfe44bfd80585b0adffb0c3e9f4804fa0389"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/unwrecked-ships.pw.toml"
+hash = "2f771e0669bf6d179b40d77d295f5c0680cff28f3bd17af34093e429682f727d"
+metafile = true
+
+[[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
+metafile = true
+
+[[files]]
+file = "mods/villager-fish-shop.pw.toml"
+hash = "2eb5abfee8bca0787fbf14ee3e6442009639b3089141af9413e1fa013d368a71"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f28ffb70c21c93c159fa1035032b8dc28add5c2d60425c2834908d663d4725fc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "be989728f3a909fd4477bc153708b216cd33b94df099bf76b64213b80d9dc90c"
+metafile = true
